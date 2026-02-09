@@ -167,7 +167,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [@Yoldyi317](https://github.com/oldyi317)
+- GitHub: [@oldyi317](https://github.com/oldyi317)
 
 ## 🙏 Acknowledgments
 
