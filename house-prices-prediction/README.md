@@ -167,8 +167,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 If you have any questions or suggestions, feel free to reach out:
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- Kaggle: [Your Kaggle Profile](https://www.kaggle.com/YOUR_KAGGLE_USERNAME)
+- GitHub: [@oldyi317](https://github.com/oldyi317)
 
 ## 🙏 Acknowledgments
 
